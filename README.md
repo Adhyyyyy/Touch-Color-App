@@ -251,6 +251,11 @@ The app's structure allows for seamless transitions between different pages and 
 
 https://github.com/user-attachments/assets/c87ca2f9-a0ec-4ac5-acaf-e4962851a5c9
 
+
+https://github.com/user-attachments/assets/0493e3a0-06eb-4b6b-b1c3-7198958d8f68
+
+
+
 The first page shows the name of the Web App on clicking on start button it leads to a page explaining about the game functionalities on clicking continue button, you can play with color circles.
 
 
